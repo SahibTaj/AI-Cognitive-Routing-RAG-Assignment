@@ -74,7 +74,9 @@ A simplified LangGraph-style pipeline is implemented:
 All are combined to form a structured context for response generation.
 
 **Prompt Injection Defense:**
+   
 **Detects malicious phrases such as:**
+   
 "ignore previous instructions"
 "you are now"
 "apologize"
